@@ -10,4 +10,5 @@ git clone https://github.com/MH-Anari/QRcode-Generator.git
 cd QRcode-Generator
 python -m pip install -r requirments.txt
 python qr_generator.py
+go to 127.0.0.1:8080
 ```
